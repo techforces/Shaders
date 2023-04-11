@@ -1,8 +1,8 @@
 # Shaders
 Practicing Shaders
 
-#Installation
+# Installation
 `npm install` from root folder
 
-#Running
+# Running
 `npx vite`
